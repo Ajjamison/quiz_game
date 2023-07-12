@@ -43,7 +43,7 @@ if answer.lower() == 'joe biden':
 else: 
     print('better luck next time')
 
-print(("You scored ") , (score) , ('out of 5'))
+print(("You scored " + str(score) + 'out of 5')
 
 
 
