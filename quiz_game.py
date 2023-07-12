@@ -15,7 +15,7 @@ if answer.lower() == 'hartford':
 else: 
     print('better luck next time')
 
-answer = input('What brand does Travis Scott have a snaker with? ')
+answer = input('What brand does Travis Scott have a sneaker with? ')
 if answer.lower() == 'nike':
     score += 1 
     print('Correct')
